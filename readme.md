@@ -10,3 +10,7 @@ Este es un párrafo.
 - elemento 4
 
 [Mi prueba](prueba.md)
+
+
+## Participante
+- [Rocio Barria](https://rociobarria.github.io/Curso-GitHub/)
